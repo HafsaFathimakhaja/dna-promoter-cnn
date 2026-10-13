@@ -1,0 +1,8 @@
+{
+  "source": "real: HF katarinagresova/Genomic_Benchmarks_human_nontata_promoters",
+  "test_roc_auc": 0.8960970635298742,
+  "test_accuracy": 0.8233340712862519,
+  "seq_len": 251,
+  "n_train": 27097,
+  "n_test": 9034
+}
